@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # --- PASTIKAN MENGISI TOKEN DAN LINK FORM DI BAWAH INI ---
-FONNTE_TOKEN = "P1GwgVxxtAamy6ha67ZR"
+FONNTE_TOKEN = "8eeBxZjLWATCUBHn2R7k"
 LINK_GOOGLE_FORM = "https://forms.gle/h9Lu73KtUKCbigtB8"
 
 # Dictionary untuk menyimpan status percakapan tiap user
