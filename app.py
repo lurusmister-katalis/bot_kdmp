@@ -79,3 +79,7 @@ def webhook():
         user_state[sender] = 'menunggu_form'
 
     return jsonify({"status": "success"}), 200
+
+
+# cara menjalankan project di lokal / terminal / terminal 1 :  python app.py  , terminal 2 : ngrok http 5000
+
